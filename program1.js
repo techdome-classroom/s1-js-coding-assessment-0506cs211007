@@ -1,4 +1,4 @@
-const dispatch2 = [
+const grid = [
     ["L","L","W","W","W"],
     ["L","L","W","W","W"],
     ["W","W","L","W","W"],
