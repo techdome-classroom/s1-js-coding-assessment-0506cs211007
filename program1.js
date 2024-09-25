@@ -5,7 +5,7 @@ const dispatch2 = [
     ["W","W","W","L","L"],
 ];
 
-const getTotalIsles = function (grid) {
+const getTotalIsles = function (dispatch2) {
 
 
   // write your code here
