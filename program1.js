@@ -1,9 +1,4 @@
-const grid = [
-    ["L","L","W","W","W"],
-    ["L","L","W","W","W"],
-    ["W","W","L","W","W"],
-    ["W","W","W","L","L"],
-];
+
 
 const getTotalIsles = function (grid) {
 
@@ -38,23 +33,7 @@ const getTotalIsles = function (grid) {
     return count;
 };
 
-// // Example usage:
-// const dispatch1 = [
-//     ["L","L","L","L","W"],
-//     ["L","L","W","L","W"],
-//     ["L","L","W","W","W"],
-//     ["W","W","W","W","W"],
-// ];
 
-// const dispatch2 = [
-//     ["L","L","W","W","W"],
-//     ["L","L","W","W","W"],
-//     ["W","W","L","W","W"],
-//     ["W","W","W","L","L"],
-// ];
-
-console.log(getTotalIsles(grid)); // Output: 1
-// console.log(numIslands(dispatch2)); // Output: 3
 
 
 
