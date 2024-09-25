@@ -1,9 +1,9 @@
-const dispatch2 = [
-    ["L","L","W","W","W"],
-    ["L","L","W","W","W"],
-    ["W","W","L","W","W"],
-    ["W","W","W","L","L"],
-];
+// const dispatch2 = [
+//     ["L","L","W","W","W"],
+//     ["L","L","W","W","W"],
+//     ["W","W","L","W","W"],
+//     ["W","W","W","L","L"],
+// ];
 
 const getTotalIsles = function (grid) {
 
