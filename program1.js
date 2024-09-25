@@ -53,7 +53,7 @@ const getTotalIsles = function (dispatch2) {
 //     ["W","W","W","L","L"],
 // ];
 
-console.log(numIslands(dispatch1)); // Output: 1
+console.log(getTotalIsles(dispatch1)); // Output: 1
 // console.log(numIslands(dispatch2)); // Output: 3
 
 
