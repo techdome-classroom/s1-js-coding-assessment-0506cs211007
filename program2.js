@@ -1,7 +1,7 @@
 const decodeTheRing = function (s, p) {
 
     // write your code here
-    const decodeTheRing = function (s, p) {
+    
       const m = s.length; 
       const n = p.length; 
     
